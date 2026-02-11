@@ -1,0 +1,18 @@
+col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10,col_11,col_12,col_13,col_14,col_15,col_16,col_17,col_18,col_19,col_20,col_21,col_22,col_23
+Qual.,Player,Team,Class,POS,BA,OBP,SLG,OPS,GP,PA,AB,R,H,2B,3B,HR,RBI,HBP,BB,K,SB,CS
+1,Cam Cannarella,Clemson,JR,CF,.353,.479,.530,1.010,61,292,232,62,82,22,2,5,52,6,52,42,6,4
+1,Dominic Listi,Clemson,SR,LF,.310,.507,.468,.975,61,292,203,62,63,15,1,5,47,30,55,48,13,2
+1,Jarren Purify,Clemson,FR,2B,.298,.417,.462,.879,57,264,208,54,62,10,3,6,35,14,32,65,29,4
+1,Luke Gaffney,Clemson,JR,1B,.271,.357,.388,.745,53,228,188,26,51,7,0,5,39,7,23,44,2,0
+1,Andrew Ciufo,Clemson,SR,SS,.263,.378,.418,.795,60,244,194,38,51,10,1,6,33,13,24,61,7,1
+1,Jacob Jarrell,Clemson,JR,C,.263,.387,.515,.902,59,244,198,45,52,5,0,15,41,8,34,67,0,0
+1,Josh Paino,Clemson,SR,3B,.249,.354,.426,.780,63,282,237,47,59,10,1,10,47,11,29,87,10,2
+1,Collin Priest,Clemson,SO,DH,.240,.407,.480,.887,59,258,196,36,47,11,0,12,52,11,47,61,0,0
+0,Hideki Prather,Clemson,SO,,.750,.750,1.000,1.750,4,4,4,1,3,1,0,0,0,0,0,0,0,0
+0,Jack Crighton,Clemson,JR,RF,.287,.370,.378,.747,45,169,143,27,41,6,2,1,19,3,17,27,5,1
+0,Tryston McCladdie,Clemson,SO,RF,.287,.393,.511,.903,31,114,94,23,27,4,1,5,19,1,16,26,9,2
+0,Ty Marshall,Clemson,SO,C,.250,.333,.250,.583,6,6,4,0,1,0,0,0,1,0,1,2,0,0
+0,Tristan Bissetta,Clemson,JR,RF,.227,.358,.373,.731,31,95,75,13,17,2,0,3,16,2,15,28,2,0
+0,Tyler Wentworth,Clemson,FR,RF,.224,.356,.286,.642,21,59,49,8,11,3,0,0,7,2,8,17,2,0
+0,Jay Dillard,Clemson,JR,2B,.118,.375,.176,.551,14,25,17,4,2,1,0,0,0,1,6,6,0,0
+0,Josh Castellani,Clemson,FR,1B,.000,.000,.000,.000,5,5,5,0,0,0,0,0,0,0,0,3,0,0
